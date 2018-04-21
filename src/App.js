@@ -29,7 +29,6 @@ class App extends Component {
     const data = await response.json();
     if (city && country){
       if (data.name && data.sys.country){
-        console.log(data);
         this.setState ({
           temperature: data.main.temp,
           city: data.name,
