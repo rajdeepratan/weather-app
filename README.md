@@ -1,14 +1,20 @@
-Weather Application
 
-I'm using openweathermap api for my weather application to get the current weather report
+## API I'm using for weather
+- openweathermap api
 
+## Requirements
 
-To get started you need to install nodeJS and yarn or npm in your computer.
+- Node and yarn
 
-Command to follow:
+## Installation
 
-1. $ yarn install or npm install
-2. $ yarn start or npm start
+- Clone the repo: `git clone https://github.com/rajdeepratan/weather-app.git`
+- Install dependencies: `npm install`
+- Start the server: `node server.js`
+
+##  How to get started!
+
+ - run `yarn start` from the home directory.
 
 
 
