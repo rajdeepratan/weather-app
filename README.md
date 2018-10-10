@@ -7,16 +7,16 @@
 
 ## Requirements
 
-- Node and yarn
+- Node and npm or yarn
 
 ## Installation
 
 - Clone the repo: `git clone https://github.com/rajdeepratan/weather-app.git`
-- Install dependencies: `yarn install`
+- Install dependencies: `npm install` or `yarn install`
 
 ##  How to get started!
 
- - run `yarn start` from the home directory.
+ - run `npm start` or `yarn start` from the home directory.
 
 
 
