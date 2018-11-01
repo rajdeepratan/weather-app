@@ -7,7 +7,7 @@
 
 ## Requirements
 
-- Node and  npm or yarn
+- Node and npm or yarn
 
 ## Installation
 
